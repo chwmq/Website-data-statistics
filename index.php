@@ -1,4 +1,5 @@
-<?php include 'data.php'; ?>
+<!--需要获取访问数据的页面-->
+<?php include 'statistics.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
