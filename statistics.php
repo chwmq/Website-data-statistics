@@ -1,5 +1,11 @@
 <?php
-//用于写入数据
+/*
+* statistics.php:用于写入数据
+* Website-data-statistics:用于统计网站的访问数据
+* Copyright (c) 2010 - 2025 chwmq. All rights reserved.
+* github: https://github.com/chwmq/easyx_Input
+* csdn: https://blog.csdn.net/chwmq
+*/
 
 // JSON文件路径
 $jsonFile = 'counter.json';
