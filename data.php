@@ -1,4 +1,6 @@
 <?php
+//用于查看数据
+
 // JSON文件路径
 $jsonFile = 'counter.json';
 
