@@ -3,7 +3,7 @@
 * statistics.php:用于写入数据
 * Website-data-statistics:用于统计网站的访问数据
 * Copyright (c) 2010 - 2025 chwmq. All rights reserved.
-* github: https://github.com/chwmq/easyx_Input
+* github: https://github.com/chwmq/
 * csdn: https://blog.csdn.net/chwmq
 */
 
